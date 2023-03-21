@@ -1,0 +1,8 @@
+CREACION DE NUEVOS PROYECTOS EN REACTJS
+    OBSERVACIONES
+    -   los nombres de los proyectos sin masyuculas
+
+    PASO A PASO 
+    -   npx create-react-app {{nombre_proyect}}
+    -   cd {{nombre_proyect}}
+    -   npm start
